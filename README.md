@@ -1,7 +1,7 @@
 # Task manager app
 
-## Flask
-## PostgreSQL
-## SQLAlchemy
-## Psycopg2
+### Flask
+### PostgreSQL
+### SQLAlchemy
+### Psycopg2
 
