@@ -8,7 +8,7 @@ class Category(db.Model):
 
     def __repr__(self):
         # __repr__ to represent itself in the form of a string.
-        return self
+        return self.category_name
 
 class Task(db.Model):
     #schema for the Task model
